@@ -20,7 +20,7 @@ Este é um projeto de API construído com [NestJS](https://nestjs.com/) que forn
 
 1.  Clone o repositório:
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone https://github.com/JuniorprogrammerCV/NestAPI.git
     ```
 
 2.  Navegue até o diretório do projeto:
